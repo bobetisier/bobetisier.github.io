@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1772743626427,
+  "timestamp": 1772744396588,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-CZADVR2K.js",
-        "/chunk-GZJMW244.js",
+        "/chunk-OIXY556W.js",
+        "/chunk-ZU4AM5VJ.js",
         "/index.html",
-        "/main-KKV4X5O6.js",
+        "/main-WLESVJZC.js",
         "/polyfills-FFHMD2TL.js",
         "/styles-JVVAYVNO.css"
       ],
@@ -91,16 +91,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-CZADVR2K.js": "ee6519d20ac58dd9dc764811181990963befe809",
-    "/chunk-GZJMW244.js": "291976706c2ccb0ebc818e32eadfbcb255d7541f",
+    "/chunk-OIXY556W.js": "db3f50ee0df501ab0d9f22feeabf6ef1cecb8ad0",
+    "/chunk-ZU4AM5VJ.js": "1d19ee2e9dc6baac1562a6b3871e00e4477d6dce",
     "/favicons/apple-touch-icon.png": "3d8fa5292e5d304e1698a006fa35a026bd0b36d8",
     "/favicons/favicon-96x96.png": "c9efe4ee97a22e9a726cab5add7dbcf3903b2863",
     "/favicons/favicon.svg": "5ef5579b39cf8e309e017d19648771546037fd8d",
     "/favicons/icon-693x693.png": "fa84503084f89aca53e39aaf6a78b0388443a926",
     "/favicons/web-app-manifest-192x192.png": "8d5fce5169bf8bdf609700c6a3728ed392495330",
     "/favicons/web-app-manifest-512x512.png": "3bd8905de077230c7c0dad327c59c041ea5652ca",
-    "/index.html": "a22392bea0dede0cc7389cd80049808913193c24",
-    "/main-KKV4X5O6.js": "37870b949a9684574b10c16a61b19b1997a1f038",
+    "/index.html": "268fbdbca1cbcaedb598c172da2aea6f4e4a5363",
+    "/main-WLESVJZC.js": "7e0b5a773ceed55eb7f042dc08674ec27d4f958d",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_140x93.png": "0da57c3d0eab2485567b63a98279198983ef0388",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_no-Effect.png": "c4b4ea285ae1222ad80e8633bae892588092a085",
@@ -167,6 +167,10 @@
     {
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ],
   "navigationRequestStrategy": "performance"
