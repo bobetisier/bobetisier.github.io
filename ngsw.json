@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774113316010,
+  "timestamp": 1774134287456,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/chunk-KUU6JWMF.js",
         "/chunk-ZHKD73E3.js",
         "/index.html",
-        "/main-YURYF444.js",
+        "/main-USJ2FKGS.js",
         "/polyfills-FFHMD2TL.js",
         "/styles-JVVAYVNO.css"
       ],
@@ -78,8 +78,8 @@
     "/favicons/icon-693x693.png": "fa84503084f89aca53e39aaf6a78b0388443a926",
     "/favicons/web-app-manifest-192x192.png": "8d5fce5169bf8bdf609700c6a3728ed392495330",
     "/favicons/web-app-manifest-512x512.png": "3bd8905de077230c7c0dad327c59c041ea5652ca",
-    "/index.html": "98e9f3d307a1c8b8d09631d4744dbc24ea48d8ae",
-    "/main-YURYF444.js": "4682e97220c7a086926b5854df942843bffb850b",
+    "/index.html": "12109772a50191ba33a2889e58349e499d327887",
+    "/main-USJ2FKGS.js": "6bd9c619282f671184eb0fecf34db15d4f058042",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_140x93.png": "0da57c3d0eab2485567b63a98279198983ef0388",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_no-Effect.png": "c4b4ea285ae1222ad80e8633bae892588092a085",
