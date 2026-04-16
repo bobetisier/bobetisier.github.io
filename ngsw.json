@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774134939313,
+  "timestamp": 1776370292136,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-KUU6JWMF.js",
-        "/chunk-ZHKD73E3.js",
+        "/chunk-36GBBJST.js",
+        "/chunk-JJ4NKHMM.js",
         "/index.html",
-        "/main-USCM6A3A.js",
+        "/main-GCJA43VQ.js",
         "/polyfills-FFHMD2TL.js",
         "/styles-JVVAYVNO.css"
       ],
@@ -70,16 +70,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-KUU6JWMF.js": "f1a5be51f62776f8cbab68e53131835dbceb95b0",
-    "/chunk-ZHKD73E3.js": "59fb3bb803ed9da5bf690bd2154513f8393ddd4a",
+    "/chunk-36GBBJST.js": "6691394762df541a26cb64f38b4e9eeb25d308eb",
+    "/chunk-JJ4NKHMM.js": "8d13630ebb9a7ac8fb4867ead0a201bbdf40fdbc",
     "/favicons/apple-touch-icon.png": "3d8fa5292e5d304e1698a006fa35a026bd0b36d8",
     "/favicons/favicon-96x96.png": "c9efe4ee97a22e9a726cab5add7dbcf3903b2863",
     "/favicons/favicon.svg": "5ef5579b39cf8e309e017d19648771546037fd8d",
     "/favicons/icon-693x693.png": "fa84503084f89aca53e39aaf6a78b0388443a926",
     "/favicons/web-app-manifest-192x192.png": "8d5fce5169bf8bdf609700c6a3728ed392495330",
     "/favicons/web-app-manifest-512x512.png": "3bd8905de077230c7c0dad327c59c041ea5652ca",
-    "/index.html": "698d1580128464bff95af3272af689ba594206e5",
-    "/main-USCM6A3A.js": "102cfe85aef06f91379012f367463c1c16c94f1c",
+    "/index.html": "a45d5138022906f16b478b2d2d256541aed1dc51",
+    "/main-GCJA43VQ.js": "3c175dd27b1fc3e9b0e3526c66b9c0301510ad21",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_140x93.png": "0da57c3d0eab2485567b63a98279198983ef0388",
     "/sprites/Bringer-Of-Death/SpriteSheet/Bringer-of-Death-SpritSheet_no-Effect.png": "c4b4ea285ae1222ad80e8633bae892588092a085",
